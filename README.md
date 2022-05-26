@@ -10,8 +10,8 @@
  
  
 ## 1. B2 Cyberpunk![B2Cyberpunk](https://github.com/rwynx/cyberfall-collection/blob/main/Preview%20Images/B2Cyberpunk.jpg?raw=true)
-## 2. The Eye ![TheEye]([https://raw.githubusercontent.com/rwynx/cyberfall-collection/main/Preview%20Images/TheEye.jpg?token=GHSAT0AAAAAABUGWRAKWRF3LPEIBBU4OY4UYUP66XQ](https://github.com/rwynx/cyberfall-collection/blob/main/Preview%20Images/TheEye.jpg))
-## 3. Mantis Blade ![MantisBlade]([https://raw.githubusercontent.com/rwynx/cyberfall-collection/main/Preview%20Images/MantisBlade.jpg?token=GHSAT0AAAAAABUGWRAKW4BKWOZY5BKMIIRCYUP665A](https://github.com/rwynx/cyberfall-collection/blob/main/Preview%20Images/MantisBlade.jpg))
+## 2. The Eye ![TheEye](https://github.com/rwynx/cyberfall-collection/blob/main/Preview%20Images/TheEye.jpg)
+## 3. Mantis Blade ![MantisBlade](https://github.com/rwynx/cyberfall-collection/blob/main/Preview%20Images/MantisBlade.jpg)
 
 # How do I install?
 Please! I strongly recommend you to read the **"Instructions.txt"** everything explained there.
