@@ -1,0 +1,7 @@
+{
+    "name": "Cyberfall_Collection_by_Rwyn",
+    "version_number": "1.0.0",
+    "website_url": "https://discord.gg/northstar",
+    "description": "Cyberpunk 2077 theme sound and 3 backgrounds. Preview available. Please read the description.",
+    "dependencies": ["northstar-Northstar-1.7.0"]
+}
