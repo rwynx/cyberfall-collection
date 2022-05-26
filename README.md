@@ -9,7 +9,7 @@
  There's a folder in the archieve called **"Previews"** there you can find **"video previews"** of all 3 backgrounds. But i'll leave image version of them here to give you example:
  
  
-## 1. B2 Cyberpunk![B2Cyberpunk]([https://raw.githubusercontent.com/rwynx/cyberfall-collection/main/Preview%20Images/B2Cyberpunk.jpg?token=GHSAT0AAAAAABUGWRAL4CSGZYCOYYUYQOFKYUP66SA](https://github.com/rwynx/cyberfall-collection/blob/main/Preview%20Images/B2Cyberpunk.jpg))
+## 1. B2 Cyberpunk![B2Cyberpunk](https://github.com/rwynx/cyberfall-collection/blob/main/Preview%20Images/B2Cyberpunk.jpg?raw=true)
 ## 2. The Eye ![TheEye]([https://raw.githubusercontent.com/rwynx/cyberfall-collection/main/Preview%20Images/TheEye.jpg?token=GHSAT0AAAAAABUGWRAKWRF3LPEIBBU4OY4UYUP66XQ](https://github.com/rwynx/cyberfall-collection/blob/main/Preview%20Images/TheEye.jpg))
 ## 3. Mantis Blade ![MantisBlade]([https://raw.githubusercontent.com/rwynx/cyberfall-collection/main/Preview%20Images/MantisBlade.jpg?token=GHSAT0AAAAAABUGWRAKW4BKWOZY5BKMIIRCYUP665A](https://github.com/rwynx/cyberfall-collection/blob/main/Preview%20Images/MantisBlade.jpg))
 
