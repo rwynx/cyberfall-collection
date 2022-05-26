@@ -1,0 +1,4 @@
+{
+	"EventId": [ "music_lobby_ambient", "music_lobby_ambient_classic" ],
+	"AudioSelectionStrategy": "sequential"
+}

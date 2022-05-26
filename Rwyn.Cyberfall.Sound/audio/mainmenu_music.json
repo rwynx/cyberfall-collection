@@ -1,0 +1,4 @@
+{
+	"EventId": [ "mainmenu_music" ],
+	"AudioSelectionStrategy": "sequential"
+}
