@@ -14,4 +14,4 @@
 Please! I strongly recommend you to read the **"Instructions.txt"** everything explained there.
 
 # Find me on Discord and Instagram
-[My Instagram](https://www.instagram.com/k3rnelpan1c.asc) ||| My Discord: rwyn#9860 |||  [Join Northstar Discord!](https://discord.gg/northstar) 
+**[My Instagram](https://www.instagram.com/k3rnelpan1c.asc)** ||| **My Discord: rwyn#9860** |||  **[Join Northstar Discord!](https://discord.gg/northstar)**
