@@ -5,7 +5,7 @@
 
 # Can't decide and want a preview?
  There's a folder in the archieve called "Previews" there you can find previews of all 3 backgrounds.
-https://github.com/rwynx/cyberfall-collection/blob/main/Preview%20Images/B2Cyberpunk.jpg?raw=true
+ ![screenshot](https://github.com/rwynx/cyberfall-collection/blob/main/Preview%20Images/B2Cyberpunk.jpg?raw=true)
 # How do I install?
  Please! I strongly recommend you to read the "Instructions.txt" everything explained there.
 
